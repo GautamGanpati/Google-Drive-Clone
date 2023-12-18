@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245110863524",
+    "project_id": "drive-clone-abceb",
+    "storage_bucket": "drive-clone-abceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245110863524:android:b335a17addd904cc1c5831",
+        "android_client_info": {
+          "package_name": "com.example.google_drive_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRA2mciHmqxdlUJAIC1k7F5IfezPN9P_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
