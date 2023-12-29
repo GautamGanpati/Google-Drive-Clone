@@ -76,16 +76,16 @@ class StorageContainer extends StatelessWidget {
                               .round()
                               .toString(),
                           style: textStyle(
-                            50,
-                            const Color(0xff635C9B),
+                            48,
+                            Colors.deepOrange,
                             FontWeight.bold,
                           ),
                         ),
                         Text(
                           '%',
                           style: textStyle(
-                            17,
-                            const Color(0xff635C9B),
+                            18,
+                            Colors.deepOrange,
                             FontWeight.bold,
                           ),
                         ),
@@ -94,7 +94,7 @@ class StorageContainer extends StatelessWidget {
                     Text(
                       'Used',
                       style: textStyle(
-                        20,
+                        22,
                         textColor.withOpacity(0.7),
                         FontWeight.bold,
                       ),
@@ -146,7 +146,7 @@ class StorageContainer extends StatelessWidget {
                         height: 18,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(5),
-                          color: Colors.grey.withOpacity(0.25),
+                          color: Colors.lightGreen,
                         ),
                       ),
                       const SizedBox(width: 15),
